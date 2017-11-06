@@ -1,4 +1,4 @@
-package me.gavin.tagtag;
+package me.gavin.tagger;
 
 import org.junit.Test;
 

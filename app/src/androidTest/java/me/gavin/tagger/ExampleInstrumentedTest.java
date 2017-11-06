@@ -1,4 +1,4 @@
-package me.gavin.tagtag;
+package me.gavin.tagger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.gavin.tagtag", appContext.getPackageName());
+        assertEquals("me.gavin.tagger", appContext.getPackageName());
     }
 }
